@@ -2,7 +2,7 @@
 
 [![IROS 2025](https://img.shields.io/badge/IROS-2025-blue)](https://www.iros.org/)
 
-**meSch** is a scheduling protocol for a team of autonomous robots that operate on long-term persistent tasks. The proposed framework accounts for the limited battery capacity of the robots and ensures that the robots return to charge their batteries **one at a time** at the single charging station.
+**meSch** is a scheduling algorithm for a team of autonomous robots that operate on long-term persistent tasks. The proposed framework accounts for the limited battery capacity of the robots and ensures that the robots return to charge their batteries **one at a time** at the single charging station.
 
 ## Publication
 
@@ -122,6 +122,4 @@ meSch/
 
 See [LICENSE](LICENSE) for details.
 
-## Acknowledgments
 
-This work was supported by the authors' institutions. The simulation framework builds on Julia packages including DifferentialEquations.jl, Convex.jl, and MeshCat.jl.
