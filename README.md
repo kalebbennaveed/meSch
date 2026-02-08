@@ -4,31 +4,7 @@
 
 **meSch** is a scheduling algorithm for a team of autonomous robots that operate on long-term persistent tasks. The proposed framework accounts for the limited battery capacity of the robots and ensures that the robots return to charge their batteries **one at a time** at the single charging station.
 
-## Publication
-
-This work was published at **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025**:
-
-> **meSch: Multi-Agent Energy-Aware Scheduling for Task Persistence**
->
-> Kaleb Ben Naveed, An Dang, Rahul Kumar, Dimitra Panagou  
-> *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*  
-> Pages 21458–21465 | DOI: [10.1109/IROS60139.2025.11247605](https://doi.org/10.1109/IROS60139.2025.11247605)
-
-**BibTeX:**
-```bibtex
-@INPROCEEDINGS{11247605,
-  author={Ben Naveed, Kaleb and Dang, An and Kumar, Rahul and Panagou, Dimitra},
-  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  title={meSch: Multi-Agent Energy-Aware Scheduling for Task Persistence},
-  year={2025},
-  pages={21458-21465},
-  doi={10.1109/IROS60139.2025.11247605}
-}
-```
-
-## Video
-
-[![meSch Demo Video](https://img.shields.io/badge/Video-Watch%20on%20YouTube-red)](https://www.youtube.com/watch?v=8Hn8znYLPk0)
+[Demo Video](https://www.youtube.com/watch?v=8Hn8znYLPk0)
 
 ## Summary
 
@@ -122,4 +98,25 @@ meSch/
 
 See [LICENSE](LICENSE) for details.
 
+---
 
+## Publication & Citation
+
+If you use this code in your research, please cite:
+
+> **meSch: Multi-Agent Energy-Aware Scheduling for Task Persistence**  
+> Kaleb Ben Naveed, An Dang, Rahul Kumar, Dimitra Panagou  
+> *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*  
+> Pages 21458–21465 | DOI: [10.1109/IROS60139.2025.11247605](https://doi.org/10.1109/IROS60139.2025.11247605)
+
+**BibTeX:**
+```bibtex
+@INPROCEEDINGS{11247605,
+  author={Ben Naveed, Kaleb and Dang, An and Kumar, Rahul and Panagou, Dimitra},
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  title={meSch: Multi-Agent Energy-Aware Scheduling for Task Persistence},
+  year={2025},
+  pages={21458-21465},
+  doi={10.1109/IROS60139.2025.11247605}
+}
+```
